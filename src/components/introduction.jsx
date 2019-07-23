@@ -45,7 +45,10 @@ export default class Introduction extends Component {
 													</h1>
 
 													<p>
-														<a className="btn btn-primary btn-learn">
+														<a
+															href="https://github.com/BhavikaBhanushali/my-portfolio"
+															className="btn btn-primary btn-learn"
+														>
 															View Portfolio <i className="icon-briefcase3" />
 														</a>
 													</p>

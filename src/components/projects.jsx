@@ -65,7 +65,7 @@ export default class Projects extends Component {
 							>
 								<div
 									className="project"
-									style={{ backgroundImage: "url(images/img-2.jpg)" }}
+									style={{ backgroundImage: "url(images/twitter.jpg)" }}
 								>
 									<div className="desc">
 										<div className="con">
@@ -91,7 +91,7 @@ export default class Projects extends Component {
 											</p>
 											<p>
 												<a
-													href="https://drive.google.com/open?id=1osFDX47QYjGOOStQW0XPzqVYQlfOVJbt"
+													href="https://github.com/BhavikaBhanushali/MiniTwit-Application"
 													className="btn btn-primary btn-learn1 center-block"
 													target="_blank"
 												>
@@ -108,7 +108,7 @@ export default class Projects extends Component {
 							>
 								<div
 									className="project"
-									style={{ backgroundImage: "url(images/img-3.jpg)" }}
+									style={{ backgroundImage: "url(images/nba.jpg)" }}
 								>
 									<div className="desc">
 										<div className="con">
@@ -130,7 +130,7 @@ export default class Projects extends Component {
 											</p>
 											<p>
 												<a
-													href="https://drive.google.com/open?id=1osFDX47QYjGOOStQW0XPzqVYQlfOVJbt"
+													href="https://github.com/BhavikaBhanushali/NBA_Twit_Sent"
 													className="btn btn-primary btn-learn1 center-block"
 													target="_blank"
 												>
@@ -147,7 +147,7 @@ export default class Projects extends Component {
 							>
 								<div
 									className="project"
-									style={{ backgroundImage: "url(images/img-4.jpg)" }}
+									style={{ backgroundImage: "url(images/cloud-computing.jpg)" }}
 								>
 									<div className="desc">
 										<div className="con">
@@ -173,7 +173,7 @@ export default class Projects extends Component {
 											</p>
 											<p>
 												<a
-													href="https://drive.google.com/open?id=1osFDX47QYjGOOStQW0XPzqVYQlfOVJbt"
+													href="https://github.com/BhavikaBhanushali/Traffic-Efficient-Model-for-Data-Applications-using-Partition-and-Aggregation-"
 													className="btn btn-primary btn-learn1 center-block"
 													target="_blank"
 												>
@@ -190,7 +190,7 @@ export default class Projects extends Component {
 							>
 								<div
 									className="project"
-									style={{ backgroundImage: "url(images/img-5.jpg)" }}
+									style={{ backgroundImage: "url(images/hadoop.jpeg)" }}
 								>
 									<div className="desc">
 										<div className="con">
@@ -239,45 +239,37 @@ export default class Projects extends Component {
 							>
 								<div
 									className="project"
-									style={{ backgroundImage: "url(images/img-6.jpg)" }}
+									style={{ backgroundImage: "url(images/memory-game.png)" }}
 								>
 									<div className="desc">
 										<div className="con">
 											<h3>
-												<a href="work.html">Work 06</a>
+												<a href="work.html">Memory Game</a>
 											</h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span>
-													<a href="#">
-														<i className="icon-share3" />
-													</a>
-												</span>
-												<span>
-													<a href="#">
-														<i className="icon-eye" /> 100
-													</a>
-												</span>
-												<span>
-													<a href="#">
-														<i className="icon-heart" /> 49
-													</a>
-												</span>
+											<span>Multi-player Game</span>
+											<p>
+											This is a 2-player memory game using deck of cards. I used Javascript, jQuery, Bootstrap and sweetAlerts to create and style my game.I hope you have fun playing it, because I had fun developing it! Enjoy!
+											</p>
+											<p>
+												<strong>
+													Technologoies: HTML, CSS, JavaScript, jQuery, Bootstrap, sweetAlerts
+												</strong>
+											</p>
+											<p>
+												<a
+													href="https://github.com/BhavikaBhanushali/Memory_Game"
+													className="btn btn-primary btn-learn1 center-block"
+													target="_blank"
+												>
+													More details <i className="icon-github" />
+												</a>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div className="row">
-							<div className="col-md-12 animate-box">
-								<p>
-									<a href="#" className="btn btn-primary btn-lg btn-load-more">
-										Load more <i className="icon-reload" />
-									</a>
-								</p>
-							</div>
-						</div>
+						
 					</div>
 				</section>
 			</div>
